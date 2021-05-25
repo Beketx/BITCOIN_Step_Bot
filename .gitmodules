@@ -1,0 +1,3 @@
+[submodule "src/bitfinex-api-py"]
+	path = src/bitfinex-api-py
+	url = https://github.com/bitfinexcom/bitfinex-api-py.git
